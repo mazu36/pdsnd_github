@@ -8,6 +8,8 @@ Explore US Bikeshare Data
 The project calculates the statistics on the bikesharing in the three cities: New York City, Washington  and Chicago.
 An interactive interface gives a user a possibility to choose the city name  and the time period(month, day).
 
+In addition to the statistics, the detailed data are available.
+
 ### Files used
 Python script:
 * bikeshare_2.py
