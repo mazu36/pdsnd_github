@@ -1,15 +1,21 @@
 ### Date created
-Include the date you created this project and README file.
+12 August 2020
 
 ### Project Title
-Replace the Project Title
+Explore US Bikeshare Data
 
 ### Description
-Describe what your project is about and what it does
+The project calculates the statistics on the bikesharing in the three cities: New York City, Washington  and Chicago.
+An interactive interface gives a user a possibility to choose the city name  and the time period(month, day).
 
 ### Files used
-Include the files used
+Python script:
+* bikeshare_2.py
+
+csv data files:
+* chicago.csv		
+* new_york_city.csv
+* washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+A template **bikeshare_2.py** provided by Udacity was used.
