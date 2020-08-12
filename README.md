@@ -10,6 +10,9 @@ An interactive interface gives a user a possibility to choose the city name  and
 
 In addition to the statistics, the detailed data are available.
 
+### Language used
+Python
+
 ### Files used
 Python script:
 * bikeshare_2.py
