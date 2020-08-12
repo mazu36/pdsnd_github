@@ -192,6 +192,12 @@ def user_stats(df):
 
 
 def main():
+    """
+    The main function contains:
+        user's input;
+        aggregated statistics output;
+        detailed data output
+    """
     while True:
         city, month, day = get_filters()
         if city =="":
